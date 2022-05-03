@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+  <SupportAssistPrebootDiagnosticLog>
+    <Schema>1.0.0</Schema>
+    <LogNumber>57</LogNumber>
+    <LogTimeStamp>04/15/2022 14:44:15</LogTimeStamp>
+    <ePSA_Data>
+      <Result>Not Reported</Result>
+      <ReturnCode>BOOT_F2</ReturnCode>
+      <ePSAFullVersion>4304.07</ePSAFullVersion>
+      <ePSAInvocationCount>2</ePSAInvocationCount>
+    </ePSA_Data>
+    <BIOS_Data>
+      <ErrorCategory>POWER_SUPPLY</ErrorCategory>
+      <ErrorMessage><![CDATA[Alert! The AC power adapter wattage and type cannot be determined. The battery 
+may not charge. The system will adjust the performance to match the power 
+available.
+]]></ErrorMessage>
+      <Flags>DISABLE_IN_SETUP</Flags>
+      <SOS_Available>FALSE</SOS_Available>
+      <TimeOutSeconds>0</TimeOutSeconds>
+    </BIOS_Data>
+  </SupportAssistPrebootDiagnosticLog>
